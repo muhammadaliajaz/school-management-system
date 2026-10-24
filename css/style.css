@@ -1,0 +1,14 @@
+/* Minimal CSS - Using pure Bootstrap */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+.table th,
+.table td {
+    white-space: nowrap;
+}
